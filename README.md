@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Satyam Kumar!
 
-![Profile Banner](https://via.placeholder.com/800x200) <!-- You can replace this link with a custom banner -->
+![Profile Banner](https://github.com/yourusername/your-repo/blob/main/banner.png) <!-- Replace this link with the actual path after uploading -->
 
 I'm a final-year **Computer Engineering student at DY Patil**, specializing in **React and Full Stack Development**. Passionate about coding and constantly expanding my tech skills, I enjoy building applications that solve real-world problems. 
 
@@ -51,7 +51,7 @@ A simple, interactive chart using HTML, CSS, and JavaScript to help young learne
 ---
 
 ### ✨ Fun Facts
-- 🌄 Born in the scenic Nainital and schooled at Birla Vidya Mandir and St. Xavier's.
+- 🌄  schooled at Birla Vidya Mandir and St. Xavier's.
 - 🎯 Currently working on a modern, responsive navbar component for my web projects.
 
 Thank you for visiting my profile! Let's connect and create something amazing together.
