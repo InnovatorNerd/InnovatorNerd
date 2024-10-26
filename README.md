@@ -23,9 +23,12 @@
   </p>
 </div>
 
-### 🔄 Skills I'm Focusing On
+---
+
+### 🔄 Dynamic Skills I'm Focusing On
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=61DAFB&center=true&vCenter=true&width=300&lines=UI/UX;Frontend;Database" alt="Animated Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=500&lines=💻+UI/UX+Design;💻+Frontend+Development;💻+Backend+Databases;💻+Software+Testing+%26+QA;💻+API+Integration" alt="Typing Animation" />
 </div>
 
 ---
