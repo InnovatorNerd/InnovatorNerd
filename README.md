@@ -44,14 +44,14 @@ A simple, interactive chart using HTML, CSS, and JavaScript to help young learne
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-3b1aa522a/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
 ### ✨ Fun Facts
-- 🌄  schooled at Birla Vidya Mandir and St. Xavier's.
+- 🌄 Born in the scenic Nainital and schooled at Birla Vidya Mandir and St. Xavier's.
 - 🎯 Currently working on a modern, responsive navbar component for my web projects.
 
 Thank you for visiting my profile! Let's connect and create something amazing together.
